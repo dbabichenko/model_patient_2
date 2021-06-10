@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>PowerChart Web</title>
+    <link rel="stylesheet" href="{{url_for('static', filename='css/bootstrap.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='css/style.css')}}" />
+    
+    <link rel="icon" type="image/png" href="./img/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="./img/favicon-32x32.png" sizes="32x32" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.7.0/css/all.css">
+</head>
+
+<body>
+
+    <div id="main" class="container-fluid h-100">
+        
+        <div id="content-panel" class="row">
+            <div id="sidebar" class="col-md-2 h-100 flex-vertical">
+                <div class="title">
+                    Menu
+                </div>
+                <ul id="menubar" class="nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="./phqo.html">Provider Home/Quick Orders</a>
+                        <div class="underline"></div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./orders.html">Orders</a>
+                        <div class="underline"></div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./powernote.html">PowerNote</a>
+                        <div class="underline"></div>
+                    </li>
+                
+                </ul>
+            </div>
+            <div id="display" class="col-md-10  h-100">
+                <div id="content-title" class="row justify-content-between">
+                    <div> ← → v | 🏠 Alerts</div>
+                    <div>
+                        <div onclick="fullScreenToggle()" style="display: inline-block; cursor: pointer;">🖥️Full Screen</div>
+                        <button id="printpage" onclick="window.print();">🖨️Print</button>
+                        🔄1 minute ago
+                    </div>
+                </div>
+                <div class="row justify-content-center" id="application">
+                   <div class="container-fluid thin-in-shadow m-2" id="alerts">
+                       <h3>Alerts</h3>
+                       <div class="row">
+                            <iframe width="100%" height="100%"></iframe>
+                       </div>
+                        
+                   </div>    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{url_for('static', filename='js/jquery-3.4.1.min.js')}}"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+    <!--script type="application/javascript" src="./js/functions.js"></script-->
+    
+    <script src="{{url_for('static', filename='js/functions.js')}}"></script>
+</body>
+
+</html>

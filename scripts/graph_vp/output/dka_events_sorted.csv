@@ -1,0 +1,907 @@
+,eventId,patientId,eventDate,eventName,resultValue,resultUnit,eventCategory,actionType
+0,dd2d9a42-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 00:20:00,Normal saline,1000.0,mL,bolus,trigger
+1,dd2d9a7e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 00:36:00,Diastolic BP,54.0,mmHg,vitals,response
+2,dd2d9a92-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 00:36:00,Diastolic BP,54.0,mmHg,vitals,response
+3,dd2d9a9c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 00:36:00,Systolic BP,96.0,mmHg,vitals,response
+4,dd2d9a9d-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 00:36:00,Respiratory Rate,22.0,RPM,vitals,response
+5,dd2d9aa6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 00:36:00,Pulse,105.0,BPM,vitals,response
+6,dd2d9ab0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 00:36:00,O2 Saturation,94.0,%,vitals,response
+7,dd2d9aba-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 01:26:00,Normal Saline,1000.0,mL,meds,trigger
+8,dd2d9ac4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 01:59:00,Normal Saline,1000.0,mL,meds,trigger
+9,dd2d9ace-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:10:00,Anion Gap,13.0,mEq/L,labs,self
+10,dd2d9ad8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:10:00,Chloride,105.0,mMol/L,labs,self
+11,dd2d9ae2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:10:00,CO2,20.4,mMol/L,labs,self
+12,dd2d9b00-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:10:00,Sodium,134.0,mMol/L,labs,self
+13,dd2d9b0a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:10:00,BUN,24.0,mg/dL,labs,self
+14,dd2d9b0b-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:10:00,Potassium,4.8,mMol/L,labs,self
+15,dd2d9b1e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:10:00,Glucose,134.0,mg/dL,labs,self
+16,dd2d9b1f-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 02:59:00,Normal Saline,1000.0,mL,meds,trigger
+17,dd2d9b28-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 03:59:00,Normal Saline,1000.0,mL,meds,trigger
+18,dd2d9b32-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 04:08:00,Systolic BP,88.0,mmHg,vitals,response
+19,dd2d9b3c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 04:08:00,Respiratory Rate,22.0,RPM,vitals,response
+20,dd2d9b46-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 04:08:00,Pulse,104.0,BPM,vitals,response
+21,dd2d9b47-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 04:08:00,O2 Saturation,95.0,%,vitals,response
+22,dd2d9b50-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 04:08:00,Diastolic BP,56.0,mmHg,vitals,response
+23,dd2d9b5a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 04:08:00,Diastolic BP,56.0,mmHg,vitals,response
+24,dd2d9b64-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 04:59:00,Normal Saline,1000.0,mL,meds,trigger
+25,dd2d9b6e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 05:59:00,Normal Saline,1000.0,mL,meds,trigger
+26,dd2d9b6f-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 06:59:00,Normal Saline,1000.0,mL,meds,trigger
+27,dd2d9b78-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 07:47:00,Systolic BP,90.0,mmHg,vitals,response
+28,dd2d9b82-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 07:47:00,Respiratory Rate,20.0,RPM,vitals,response
+29,dd2d9b8c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 07:47:00,Pulse,85.0,BPM,vitals,response
+30,dd2d9b8d-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 07:47:00,O2 Saturation,95.0,%,vitals,response
+31,dd2d9b96-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 07:47:00,Diastolic BP,46.0,mmHg,vitals,response
+32,dd2d9ba0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 07:47:00,Diastolic BP,46.0,mmHg,vitals,response
+33,dd2d9baa-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 07:59:00,Normal Saline,1000.0,mL,meds,trigger
+34,dd2d9bb4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 08:59:00,Normal Saline,1000.0,mL,meds,trigger
+35,dd2d9bb5-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 09:59:00,Normal Saline,1000.0,mL,meds,trigger
+36,dd2d9bbe-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:25:00,Pulse,89.0,BPM,vitals,response
+37,dd2d9bc8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:25:00,O2 Saturation,94.0,%,vitals,response
+38,dd2d9bd2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:25:00,Diastolic BP,55.0,mmHg,vitals,response
+39,dd2d9bdc-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:25:00,Diastolic BP,55.0,mmHg,vitals,response
+40,dd2d9bdd-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:25:00,Systolic BP,100.0,mmHg,vitals,response
+41,dd2d9be6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:25:00,Respiratory Rate,20.0,RPM,vitals,response
+42,dd2d9bf0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:30:00,O2 Saturation,93.0,%,vitals,response
+43,dd2d9bfa-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:35:00,Diastolic BP,50.0,mmHg,vitals,response
+44,dd2d9bfb-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:35:00,Diastolic BP,50.0,mmHg,vitals,response
+45,dd2d9c04-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:35:00,Systolic BP,86.0,mmHg,vitals,response
+46,dd2d9c0e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:35:00,Respiratory Rate,22.0,RPM,vitals,response
+47,dd2d9c18-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:35:00,O2 Saturation,93.0,%,vitals,response
+48,dd2d9c22-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:35:00,Pulse,87.0,BPM,vitals,response
+49,dd2d9c2c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:50:00,CO2,20.6,mMol/L,labs,self
+50,dd2d9c36-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:50:00,Sodium,132.0,mMol/L,labs,self
+51,dd2d9c40-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:50:00,BUN,26.0,mg/dL,labs,self
+52,dd2d9c41-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:50:00,Potassium,3.8,mMol/L,labs,self
+53,dd2d9c4a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:50:00,Glucose,116.0,mg/dL,labs,self
+54,dd2d9c54-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:50:00,Anion Gap,8.0,mEq/L,labs,self
+55,dd2d9c5e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 10:50:00,Chloride,107.0,mMol/L,labs,self
+56,dd2d9c68-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 11:00:00,Diastolic BP,53.0,mmHg,vitals,response
+57,dd2d9c72-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 11:00:00,Systolic BP,103.0,mmHg,vitals,response
+58,dd2d9c73-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 11:00:00,Respiratory Rate,21.0,RPM,vitals,response
+59,dd2d9c7c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 11:00:00,O2 Saturation,94.0,%,vitals,response
+60,dd2d9c86-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 11:00:00,Pulse,87.0,BPM,vitals,response
+61,dd2d9c90-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 11:00:00,Diastolic BP,53.0,mmHg,vitals,response
+62,dd2d9c91-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 12:00:00,Systolic BP,99.0,mmHg,vitals,response
+63,dd2d9c9a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 12:00:00,Respiratory Rate,23.0,RPM,vitals,response
+64,dd2d9ca4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 12:00:00,O2 Saturation,94.0,%,vitals,response
+65,dd2d9cae-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 12:00:00,Pulse,88.0,BPM,vitals,response
+66,dd2d9cb8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 12:00:00,Diastolic BP,60.0,mmHg,vitals,response
+67,dd2d9cc2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 12:00:00,Diastolic BP,60.0,mmHg,vitals,response
+68,dd2d9cc3-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:00:00,Respiratory Rate,25.0,RPM,vitals,response
+69,dd2d9ccc-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:00:00,O2 Saturation,94.0,%,vitals,response
+70,dd2d9cd6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:00:00,Pulse,101.0,BPM,vitals,response
+71,dd2d9d08-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:00:00,Diastolic BP,57.0,mmHg,vitals,response
+72,dd2d9d12-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:00:00,Diastolic BP,57.0,mmHg,vitals,response
+73,dd2d9d1c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:00:00,Systolic BP,94.0,mmHg,vitals,response
+74,dd2d9d26-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:35:00,Normal Saline,1000.0,mL,meds,trigger
+75,dd2d9d27-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 14:59:00,Normal Saline,1000.0,mL,meds,trigger
+76,dd2d9d30-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 16:00:00,Pulse,106.0,BPM,vitals,response
+77,dd2d9d3a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 16:00:00,Diastolic BP,49.0,mmHg,vitals,response
+78,dd2d9d44-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 16:00:00,Diastolic BP,49.0,mmHg,vitals,response
+79,dd2d9d45-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 16:00:00,Systolic BP,97.0,mmHg,vitals,response
+80,dd2d9d4e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 16:00:00,Respiratory Rate,23.0,RPM,vitals,response
+81,dd2d9d58-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 16:00:00,O2 Saturation,95.0,%,vitals,response
+82,dd2d9d62-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 17:06:00,Normal Saline,1000.0,mL,meds,trigger
+83,dd2d9d63-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 20:00:00,Diastolic BP,54.0,mmHg,vitals,response
+84,dd2d9d6c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 20:00:00,Diastolic BP,54.0,mmHg,vitals,response
+85,dd2d9d76-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 20:00:00,Systolic BP,95.0,mmHg,vitals,response
+86,dd2d9d80-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 20:00:00,Respiratory Rate,20.0,RPM,vitals,response
+87,dd2d9d8a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 20:00:00,O2 Saturation,93.0,%,vitals,response
+88,dd2d9d8b-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 20:00:00,Pulse,105.0,BPM,vitals,response
+89,dd2d9d94-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 20:50:00,Normal Saline,1000.0,mL,meds,trigger
+90,dd2d9d9e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:00:00,Systolic BP,94.0,mmHg,vitals,response
+91,dd2d9da8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:00:00,Respiratory Rate,25.0,RPM,vitals,response
+92,dd2d9da9-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:00:00,O2 Saturation,94.0,%,vitals,response
+93,dd2d9db2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:00:00,Pulse,101.0,BPM,vitals,response
+94,dd2d9dbc-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:00:00,Diastolic BP,49.0,mmHg,vitals,response
+95,dd2d9dc6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:00:00,Diastolic BP,49.0,mmHg,vitals,response
+96,dd2d9dc7-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:18:00,BUN,17.0,mg/dL,labs,self
+97,dd2d9dd0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:18:00,Potassium,3.3,mMol/L,labs,self
+98,dd2d9dda-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:18:00,Glucose,101.0,mg/dL,labs,self
+99,dd2d9de4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:18:00,Anion Gap,10.0,mEq/L,labs,self
+100,dd2d9dee-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:18:00,Chloride,104.0,mMol/L,labs,self
+101,dd2d9df8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:18:00,CO2,20.9,mMol/L,labs,self
+102,dd2d9e02-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 22:18:00,Sodium,132.0,mMol/L,labs,self
+103,dd2d9e0c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 23:00:00,Systolic BP,95.0,mmHg,vitals,response
+104,dd2d9e0d-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 23:00:00,Pulse,96.0,BPM,vitals,response
+105,dd2d9e16-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 23:00:00,Diastolic BP,61.0,mmHg,vitals,response
+106,dd2d9e20-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-06 23:00:00,Diastolic BP,61.0,mmHg,vitals,response
+107,dd2d9e2a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 00:00:00,Respiratory Rate,21.0,RPM,vitals,response
+108,dd2d9e2b-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 00:00:00,Pulse,88.0,BPM,vitals,response
+109,dd2d9e34-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 00:00:00,O2 Saturation,93.0,%,vitals,response
+110,dd2d9e3e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 00:00:00,Diastolic BP,62.0,mmHg,vitals,response
+111,dd2d9e48-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 00:00:00,Diastolic BP,62.0,mmHg,vitals,response
+112,dd2d9e49-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 00:00:00,Systolic BP,95.0,mmHg,vitals,response
+113,dd2d9e52-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 02:00:00,Pulse,95.0,BPM,vitals,response
+114,dd2d9e5c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 02:00:00,O2 Saturation,95.0,%,vitals,response
+115,dd2d9e66-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 02:00:00,Diastolic BP,57.0,mmHg,vitals,response
+116,dd2d9e70-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 02:00:00,Diastolic BP,57.0,mmHg,vitals,response
+117,dd2d9e71-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 02:00:00,Systolic BP,108.0,mmHg,vitals,response
+118,dd2d9e7a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 02:00:00,Respiratory Rate,23.0,RPM,vitals,response
+119,dd2d9e84-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:00:00,Diastolic BP,56.0,mmHg,vitals,response
+120,dd2d9e8e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:00:00,Systolic BP,112.0,mmHg,vitals,response
+121,dd2d9e8f-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:00:00,Respiratory Rate,21.0,RPM,vitals,response
+122,dd2d9e98-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:00:00,Pulse,101.0,BPM,vitals,response
+123,dd2d9ea2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:00:00,O2 Saturation,93.0,%,vitals,response
+124,dd2d9eac-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:00:00,Diastolic BP,56.0,mmHg,vitals,response
+125,dd2d9eb6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:34:00,Potassium,3.8,mMol/L,labs,self
+126,dd2d9ec0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:34:00,Glucose,85.0,mg/dL,labs,self
+127,dd2d9ec1-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:34:00,Anion Gap,9.0,mEq/L,labs,self
+128,dd2d9eca-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:34:00,Chloride,103.0,mMol/L,labs,self
+129,dd2dc832-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:34:00,CO2,25.9,mMol/L,labs,self
+130,dd2dc882-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:34:00,Sodium,134.0,mMol/L,labs,self
+131,dd2dc896-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 04:34:00,BUN,13.0,mg/dL,labs,self
+132,dd2dc8aa-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 06:00:00,Systolic BP,95.0,mmHg,vitals,response
+133,dd2dc8b4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 06:00:00,Respiratory Rate,17.0,RPM,vitals,response
+134,dd2dc8be-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 06:00:00,Pulse,95.0,BPM,vitals,response
+135,dd2dc8d2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 06:00:00,O2 Saturation,93.0,%,vitals,response
+136,dd2dc8dc-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 06:00:00,Diastolic BP,55.0,mmHg,vitals,response
+137,dd2dc9a4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 06:00:00,Diastolic BP,55.0,mmHg,vitals,response
+138,dd2dc9ae-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 08:00:00,Respiratory Rate,21.0,RPM,vitals,response
+139,dd2dc9b8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 08:00:00,Pulse,85.0,BPM,vitals,response
+140,dd2dc9cc-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 08:00:00,O2 Saturation,95.0,%,vitals,response
+141,dd2dc9d6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 08:00:00,Diastolic BP,90.0,mmHg,vitals,response
+142,dd2dc9e0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 08:00:00,Diastolic BP,90.0,mmHg,vitals,response
+143,dd2dc9f4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 08:00:00,Systolic BP,110.0,mmHg,vitals,response
+144,dd2dc9fe-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 08:33:00,Normal Saline,1000.0,mL,meds,trigger
+145,dd2dca08-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 10:00:00,Respiratory Rate,21.0,RPM,vitals,response
+146,dd2dca1c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 10:00:00,Pulse,78.0,BPM,vitals,response
+147,dd2dca26-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 10:00:00,O2 Saturation,95.0,%,vitals,response
+148,dd2dca30-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 10:00:00,Diastolic BP,52.0,mmHg,vitals,response
+149,dd2dca3a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 10:00:00,Diastolic BP,52.0,mmHg,vitals,response
+150,dd2dca4e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 10:00:00,Systolic BP,112.0,mmHg,vitals,response
+151,dd2dca58-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:00:00,Diastolic BP,57.0,mmHg,vitals,response
+152,dd2dca62-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:00:00,Diastolic BP,57.0,mmHg,vitals,response
+153,dd2dca76-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:00:00,Systolic BP,94.0,mmHg,vitals,response
+154,dd2dca80-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:00:00,Respiratory Rate,22.0,RPM,vitals,response
+155,dd2dca94-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:00:00,Pulse,74.0,BPM,vitals,response
+156,dd2dca9e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:30:00,O2 Saturation,96.0,%,vitals,response
+157,dd2dcaa8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:30:00,Respiratory Rate,21.0,RPM,vitals,response
+158,dd2dcabc-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 12:30:00,Pulse,78.0,BPM,vitals,response
+159,dd2dcac6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 14:00:00,Systolic BP,106.0,mmHg,vitals,response
+160,dd2dcad0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 14:00:00,Respiratory Rate,16.0,RPM,vitals,response
+161,dd2dcae4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 14:00:00,Pulse,78.0,BPM,vitals,response
+162,dd2dcaee-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 14:00:00,O2 Saturation,92.0,%,vitals,response
+163,dd2dcb02-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 14:00:00,Diastolic BP,69.0,mmHg,vitals,response
+164,dd2dcb0c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 14:00:00,Diastolic BP,69.0,mmHg,vitals,response
+165,dd2dcb16-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 16:00:00,Systolic BP,110.0,mmHg,vitals,response
+166,dd2dcb2a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 16:00:00,Respiratory Rate,20.0,RPM,vitals,response
+167,dd2dcb34-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 16:00:00,Pulse,82.0,BPM,vitals,response
+168,dd2dcb3e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 16:00:00,O2 Saturation,95.0,%,vitals,response
+169,dd2dcb52-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 16:00:00,Diastolic BP,62.0,mmHg,vitals,response
+170,dd2dcb5c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 16:00:00,Diastolic BP,62.0,mmHg,vitals,response
+171,dd2dcb70-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 20:00:00,Pulse,84.0,BPM,vitals,response
+172,dd2dcb7a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 20:00:00,O2 Saturation,95.0,%,vitals,response
+173,dd2dcb8e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 20:00:00,Diastolic BP,70.0,mmHg,vitals,response
+174,dd2dcb98-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 20:00:00,Diastolic BP,70.0,mmHg,vitals,response
+175,dd2dcbac-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 20:00:00,Systolic BP,98.0,mmHg,vitals,response
+176,dd2dcbb6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 20:00:00,Respiratory Rate,18.0,RPM,vitals,response
+177,dd2dcbc0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 22:00:00,O2 Saturation,95.0,%,vitals,response
+178,dd2dcbd4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 22:00:00,Diastolic BP,61.0,mmHg,vitals,response
+179,dd2dcbde-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 22:00:00,Diastolic BP,61.0,mmHg,vitals,response
+180,dd2dcbe8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 22:00:00,Systolic BP,109.0,mmHg,vitals,response
+181,dd2dcbf2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 22:00:00,Respiratory Rate,20.0,RPM,vitals,response
+182,dd2dcc06-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-07 22:00:00,Pulse,80.0,BPM,vitals,response
+183,dd2dcc10-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 00:00:00,Diastolic BP,57.0,mmHg,vitals,response
+184,dd2dcc24-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 00:00:00,Diastolic BP,57.0,mmHg,vitals,response
+185,dd2dcc2e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 00:00:00,Systolic BP,98.0,mmHg,vitals,response
+186,dd2dcc38-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 00:00:00,Respiratory Rate,16.0,RPM,vitals,response
+187,dd2dcc42-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 00:00:00,Pulse,75.0,BPM,vitals,response
+188,dd2dcc56-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 00:00:00,O2 Saturation,94.0,%,vitals,response
+189,dd2dcc60-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:00:00,Systolic BP,93.0,mmHg,vitals,response
+190,dd2dcc6a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:00:00,Respiratory Rate,18.0,RPM,vitals,response
+191,dd2dcc7e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:00:00,Pulse,83.0,BPM,vitals,response
+192,dd2dcc88-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:00:00,O2 Saturation,97.0,%,vitals,response
+193,dd2dcc92-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:00:00,Diastolic BP,57.0,mmHg,vitals,response
+194,dd2dcca6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:00:00,Diastolic BP,57.0,mmHg,vitals,response
+195,dd2dccb0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:57:00,Anion Gap,7.0,mEq/L,labs,self
+196,dd2dccba-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:57:00,Chloride,114.0,mMol/L,labs,self
+197,dd2dccc4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:57:00,CO2,19.2,mMol/L,labs,self
+198,dd2dcce2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:57:00,Sodium,137.0,mMol/L,labs,self
+199,dd2dccec-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:57:00,BUN,9.0,mg/dL,labs,self
+200,dd2dccf6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:57:00,Potassium,3.5,mMol/L,labs,self
+201,dd2dcd0a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 02:57:00,Glucose,94.0,mg/dL,labs,self
+202,dd2dcefe-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 04:00:00,Respiratory Rate,20.0,RPM,vitals,response
+203,dd2dcf1c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 04:00:00,Pulse,79.0,BPM,vitals,response
+204,dd2dcf30-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 04:00:00,O2 Saturation,96.0,%,vitals,response
+205,dd2dd246-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 04:00:00,Diastolic BP,67.0,mmHg,vitals,response
+206,dd2dd25a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 04:00:00,Diastolic BP,67.0,mmHg,vitals,response
+207,dd2dd264-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 04:00:00,Systolic BP,107.0,mmHg,vitals,response
+208,dd2dd4a8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 05:13:00,Normal Saline,1000.0,mL,meds,trigger
+209,dd2dd4bc-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 06:00:00,O2 Saturation,96.0,%,vitals,response
+210,dd2dd4c6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 06:00:00,Diastolic BP,62.0,mmHg,vitals,response
+211,dd2dd4da-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 06:00:00,Diastolic BP,62.0,mmHg,vitals,response
+212,dd2dd4e4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 06:00:00,Systolic BP,103.0,mmHg,vitals,response
+213,dd2dd4f8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 06:00:00,Respiratory Rate,16.0,RPM,vitals,response
+214,dd2dd502-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 06:00:00,Pulse,67.0,BPM,vitals,response
+215,dd2dd516-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 08:17:00,O2 Saturation,96.0,%,vitals,response
+216,dd2dd520-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 08:17:00,Diastolic BP,62.0,mmHg,vitals,response
+217,dd2dd52a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 08:17:00,Diastolic BP,62.0,mmHg,vitals,response
+218,dd2dd53e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 08:17:00,Systolic BP,98.0,mmHg,vitals,response
+219,dd2dd548-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 08:17:00,Respiratory Rate,19.0,RPM,vitals,response
+220,dd2dd552-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 08:17:00,Pulse,71.0,BPM,vitals,response
+221,dd2dd566-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 09:03:00,O2 Saturation,96.0,%,vitals,response
+222,dd2dd570-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 10:00:00,Diastolic BP,59.0,mmHg,vitals,response
+223,dd2dd584-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 10:00:00,Systolic BP,95.0,mmHg,vitals,response
+224,dd2dd58e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 10:00:00,Respiratory Rate,17.0,RPM,vitals,response
+225,dd2dd5a2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 10:00:00,Pulse,66.0,BPM,vitals,response
+226,dd2dd5ac-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 10:00:00,O2 Saturation,96.0,%,vitals,response
+227,dd2ddbec-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 10:00:00,Diastolic BP,59.0,mmHg,vitals,response
+228,dd2ddc0a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 12:29:00,Systolic BP,98.0,mmHg,vitals,response
+229,dd2ddc14-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 12:29:00,Respiratory Rate,17.0,RPM,vitals,response
+230,dd2ddc28-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 12:29:00,Pulse,68.0,BPM,vitals,response
+231,dd2ddc32-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 12:29:00,O2 Saturation,95.0,%,vitals,response
+232,dd2ddc3c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 12:29:00,Diastolic BP,63.0,mmHg,vitals,response
+233,dd2ddc50-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 12:29:00,Diastolic BP,63.0,mmHg,vitals,response
+234,dd2ddc5a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:07:00,Pulse,74.0,BPM,vitals,response
+235,dd2ddc6e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:07:00,O2 Saturation,94.0,%,vitals,response
+236,dd2ddc78-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:07:00,Diastolic BP,41.0,mmHg,vitals,response
+237,dd2ddc82-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:07:00,Diastolic BP,41.0,mmHg,vitals,response
+238,dd2ddc96-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:07:00,Systolic BP,94.0,mmHg,vitals,response
+239,dd2ddca0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:07:00,Respiratory Rate,23.0,RPM,vitals,response
+240,dd2ddcaa-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:56:00,Diastolic BP,70.0,mmHg,vitals,response
+241,dd2ddcb4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:56:00,Diastolic BP,70.0,mmHg,vitals,response
+242,dd2ddcc8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:56:00,Systolic BP,100.0,mmHg,vitals,response
+243,dd2ddcd2-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:56:00,Respiratory Rate,22.0,RPM,vitals,response
+244,dd2ddce6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:56:00,Pulse,74.0,BPM,vitals,response
+245,dd2ddcf0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 14:56:00,O2 Saturation,94.0,%,vitals,response
+246,dd2ddcfa-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 19:20:00,Diastolic BP,70.0,mmHg,vitals,response
+247,dd2ddd04-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 19:20:00,Diastolic BP,70.0,mmHg,vitals,response
+248,dd2ddd0e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 19:20:00,Systolic BP,98.0,mmHg,vitals,response
+249,dd2ddd18-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 19:20:00,Respiratory Rate,20.0,RPM,vitals,response
+250,dd2ddd22-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 19:20:00,Pulse,74.0,BPM,vitals,response
+251,dd2ddd2c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 19:20:00,O2 Saturation,95.0,%,vitals,response
+252,dd2ddd40-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 22:59:00,Systolic BP,106.0,mmHg,vitals,response
+253,dd2ddd4a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 22:59:00,Respiratory Rate,18.0,RPM,vitals,response
+254,dd2ddd54-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 22:59:00,Pulse,70.0,BPM,vitals,response
+255,dd2ddd68-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 22:59:00,O2 Saturation,96.0,%,vitals,response
+256,dd2ddd72-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 22:59:00,Diastolic BP,64.0,mmHg,vitals,response
+257,dd2ddd7c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-08 22:59:00,Diastolic BP,64.0,mmHg,vitals,response
+258,dd2ddd86-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 03:34:00,Systolic BP,102.0,mmHg,vitals,response
+259,dd2ddd90-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 03:34:00,Respiratory Rate,22.0,RPM,vitals,response
+260,dd2ddd9a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 03:34:00,Pulse,70.0,BPM,vitals,response
+261,dd2de01a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 03:34:00,O2 Saturation,95.0,%,vitals,response
+262,dd2de038-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 03:34:00,Diastolic BP,62.0,mmHg,vitals,response
+263,dd2de042-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 03:34:00,Diastolic BP,62.0,mmHg,vitals,response
+264,dd2de04c-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 04:52:00,Chloride,112.0,mMol/L,labs,self
+265,dd2de060-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 04:52:00,CO2,21.0,mMol/L,labs,self
+266,dd2de06a-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 04:52:00,Sodium,138.0,mMol/L,labs,self
+267,dd2de07e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 04:52:00,BUN,6.0,mg/dL,labs,self
+268,dd2de088-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 04:52:00,Potassium,3.9,mMol/L,labs,self
+269,dd2de0a6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 04:52:00,Glucose,98.0,mg/dL,labs,self
+270,dd2de0b0-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 04:52:00,Anion Gap,9.0,mEq/L,labs,self
+271,dd2de0c4-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 07:52:00,O2 Saturation,97.0,%,vitals,response
+272,dd2de0ce-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 07:52:00,Diastolic BP,60.0,mmHg,vitals,response
+273,dd2de0d8-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 07:52:00,Diastolic BP,60.0,mmHg,vitals,response
+274,dd2de0ec-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 07:52:00,Systolic BP,100.0,mmHg,vitals,response
+275,dd2de0f6-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 07:52:00,Respiratory Rate,20.0,RPM,vitals,response
+276,dd2de100-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 07:52:00,Pulse,64.0,BPM,vitals,response
+277,dd2de114-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 12:07:00,Diastolic BP,60.0,mmHg,vitals,response
+278,dd2de11e-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 12:07:00,Diastolic BP,60.0,mmHg,vitals,response
+279,dd2de128-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 12:07:00,Systolic BP,102.0,mmHg,vitals,response
+280,dd2de132-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 12:07:00,Respiratory Rate,18.0,RPM,vitals,response
+281,dd2de146-73ae-11ea-9037-d077e516bc70,6aeaa7a0-229a-11ea-af9c-8a315723aae9,2013-08-09 12:07:00,Pulse,80.0,BPM,vitals,response
+282,dd2de150-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:11:00,Pulse,85.0,BPM,vitals,response
+283,dd2de15a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:11:00,Systolic BP,119.0,mmHg,vitals,response
+284,dd2de16e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:11:00,Respiratory Rate,16.0,RPM,vitals,response
+285,dd2de178-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:11:00,Diastolic BP,90.0,mmHg,vitals,response
+286,dd2de182-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:11:00,Diastolic BP,90.0,mmHg,vitals,response
+287,dd2de196-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:11:00,O2 Saturation,99.0,%,vitals,response
+288,dd2de1a0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:37:00,Potassium,4.2,mMol/L,labs,self
+289,dd2de1b4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:37:00,BUN,14.0,mg/dL,labs,self
+290,dd2de1be-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:37:00,Anion Gap,11.0,mEq/L,labs,self
+291,dd2de1d2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:37:00,Glucose,96.0,mg/dL,labs,self
+292,dd2de1dc-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:37:00,CO2,20.8,mMol/L,labs,self
+293,dd2de1f0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:37:00,Chloride,112.0,mMol/L,labs,self
+294,dd2de1fa-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 10:37:00,Sodium,140.0,mMol/L,labs,self
+295,dd2de204-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:04:00,Systolic BP,122.0,mmHg,vitals,response
+296,dd2de218-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:04:00,Respiratory Rate,16.0,RPM,vitals,response
+297,dd2de222-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:04:00,Diastolic BP,84.0,mmHg,vitals,response
+298,dd2de22c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:04:00,Diastolic BP,84.0,mmHg,vitals,response
+299,dd2de236-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:04:00,O2 Saturation,99.0,%,vitals,response
+300,dd2de24a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:04:00,Pulse,88.0,BPM,vitals,response
+301,dd2de254-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:34:00,Diastolic BP,78.0,mmHg,vitals,response
+302,dd2de25e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:34:00,Diastolic BP,78.0,mmHg,vitals,response
+303,dd2de272-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:34:00,O2 Saturation,99.0,%,vitals,response
+304,dd2de27c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:34:00,Pulse,86.0,BPM,vitals,response
+305,dd2de286-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:34:00,Systolic BP,134.0,mmHg,vitals,response
+306,dd2de290-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 11:34:00,Respiratory Rate,18.0,RPM,vitals,response
+307,dd2de29a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 12:42:00,Normal saline,1000.0,mL,bolus,trigger
+308,dd2de2ae-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 12:59:00,O2 Saturation,99.0,%,vitals,response
+309,dd2de2b8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 12:59:00,Pulse,80.0,BPM,vitals,response
+310,dd2de2c2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 12:59:00,Systolic BP,126.0,mmHg,vitals,response
+311,dd2de2d6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 12:59:00,Respiratory Rate,18.0,RPM,vitals,response
+312,dd2de2e0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 12:59:00,Diastolic BP,74.0,mmHg,vitals,response
+313,dd2de2ea-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 12:59:00,Diastolic BP,74.0,mmHg,vitals,response
+314,dd2de2f4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 14:04:00,Systolic BP,113.0,mmHg,vitals,response
+315,dd2de2fe-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 14:04:00,Diastolic BP,78.0,mmHg,vitals,response
+316,dd2de308-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 14:04:00,Diastolic BP,78.0,mmHg,vitals,response
+317,dd2de312-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 14:05:00,Pulse,60.0,BPM,vitals,response
+318,dd2de31c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 14:05:00,Respiratory Rate,16.0,RPM,vitals,response
+319,dd2de330-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 14:05:00,O2 Saturation,98.0,%,vitals,response
+320,dd2de33a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 20:54:00,Pulse,63.0,BPM,vitals,response
+321,dd2de344-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 20:54:00,Systolic BP,105.0,mmHg,vitals,response
+322,dd2de34e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 20:54:00,Respiratory Rate,16.0,RPM,vitals,response
+323,dd2de358-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 20:54:00,Diastolic BP,69.0,mmHg,vitals,response
+324,dd2de362-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 20:54:00,Diastolic BP,69.0,mmHg,vitals,response
+325,dd2de376-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-20 20:54:00,O2 Saturation,98.0,%,vitals,response
+326,dd2de380-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 06:44:00,Systolic BP,99.0,mmHg,vitals,response
+327,dd2de38a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 06:44:00,Respiratory Rate,20.0,RPM,vitals,response
+328,dd2de394-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 06:44:00,Diastolic BP,65.0,mmHg,vitals,response
+329,dd2de39e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 06:44:00,Diastolic BP,65.0,mmHg,vitals,response
+330,dd2de3a8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 06:44:00,O2 Saturation,95.0,%,vitals,response
+331,dd2de3b2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 06:44:00,Pulse,62.0,BPM,vitals,response
+332,dd2de3bc-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 13:38:00,Respiratory Rate,20.0,RPM,vitals,response
+333,dd2de3c6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 13:40:00,Diastolic BP,66.0,mmHg,vitals,response
+334,dd2de3da-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 13:40:00,O2 Saturation,99.0,%,vitals,response
+335,dd2de3e4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 13:40:00,Pulse,64.0,BPM,vitals,response
+336,dd2de3ee-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 13:40:00,Systolic BP,117.0,mmHg,vitals,response
+337,dd2de3f8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 13:40:00,Diastolic BP,66.0,mmHg,vitals,response
+338,dd2de402-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 21:24:00,Pulse,70.0,BPM,vitals,response
+339,dd2de40c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 21:24:00,Systolic BP,121.0,mmHg,vitals,response
+340,dd2de416-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 21:24:00,Diastolic BP,69.0,mmHg,vitals,response
+341,dd2de420-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 21:24:00,Diastolic BP,69.0,mmHg,vitals,response
+342,dd2de42a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-21 21:24:00,O2 Saturation,98.0,%,vitals,response
+343,dd2de43e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 06:16:00,Respiratory Rate,18.0,RPM,vitals,response
+344,dd2de448-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 06:17:00,Pulse,66.0,BPM,vitals,response
+345,dd2de452-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 06:17:00,Systolic BP,112.0,mmHg,vitals,response
+346,dd2de45c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 06:17:00,Diastolic BP,66.0,mmHg,vitals,response
+347,dd2de466-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 06:17:00,Diastolic BP,66.0,mmHg,vitals,response
+348,dd2de470-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 06:17:00,O2 Saturation,97.0,%,vitals,response
+349,dd2de47a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:32:00,Systolic BP,145.0,mmHg,vitals,response
+350,dd2de48e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:32:00,Diastolic BP,84.0,mmHg,vitals,response
+351,dd2de498-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:32:00,Diastolic BP,84.0,mmHg,vitals,response
+352,dd2de4a2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:34:00,Diastolic BP,86.0,mmHg,vitals,response
+353,dd2de4ac-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:34:00,Diastolic BP,86.0,mmHg,vitals,response
+354,dd2de4b6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:34:00,Systolic BP,137.0,mmHg,vitals,response
+355,dd2de4c0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:35:00,O2 Saturation,100.0,%,vitals,response
+356,dd2de4ca-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:35:00,Pulse,61.0,BPM,vitals,response
+357,dd2de4d4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:37:00,Systolic BP,137.0,mmHg,vitals,response
+358,dd2de4e8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:37:00,Diastolic BP,92.0,mmHg,vitals,response
+359,dd2de4f2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:37:00,Diastolic BP,92.0,mmHg,vitals,response
+360,dd2de4fc-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:39:00,Systolic BP,112.0,mmHg,vitals,response
+361,dd2de510-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:39:00,Diastolic BP,59.0,mmHg,vitals,response
+362,dd2de51a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:39:00,Diastolic BP,59.0,mmHg,vitals,response
+363,dd2de524-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:40:00,O2 Saturation,100.0,%,vitals,response
+364,dd2de52e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:40:00,Pulse,65.0,BPM,vitals,response
+365,dd2de538-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:43:00,Systolic BP,108.0,mmHg,vitals,response
+366,dd2de542-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:43:00,Diastolic BP,55.0,mmHg,vitals,response
+367,dd2de556-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:43:00,Diastolic BP,55.0,mmHg,vitals,response
+368,dd2de560-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:45:00,Systolic BP,100.0,mmHg,vitals,response
+369,dd2de56a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:45:00,O2 Saturation,100.0,%,vitals,response
+370,dd2de574-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:45:00,Diastolic BP,59.0,mmHg,vitals,response
+371,dd2de588-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:45:00,Diastolic BP,59.0,mmHg,vitals,response
+372,dd2de592-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:45:00,Pulse,68.0,BPM,vitals,response
+373,dd2de59c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:48:00,Diastolic BP,55.0,mmHg,vitals,response
+374,dd2de5b0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:48:00,Systolic BP,96.0,mmHg,vitals,response
+375,dd2de5ba-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:48:00,Diastolic BP,55.0,mmHg,vitals,response
+376,dd2de5c4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:50:00,Pulse,72.0,BPM,vitals,response
+377,dd2de5d8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:50:00,O2 Saturation,100.0,%,vitals,response
+378,dd2de5e2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:51:00,Systolic BP,96.0,mmHg,vitals,response
+379,dd2de5ec-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:51:00,Diastolic BP,54.0,mmHg,vitals,response
+380,dd2de600-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:51:00,Diastolic BP,54.0,mmHg,vitals,response
+381,dd2de60a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:54:00,Systolic BP,103.0,mmHg,vitals,response
+382,dd2de61e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:54:00,Diastolic BP,58.0,mmHg,vitals,response
+383,dd2de628-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:54:00,Diastolic BP,58.0,mmHg,vitals,response
+384,dd2de632-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:55:00,Pulse,68.0,BPM,vitals,response
+385,dd2de646-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:55:00,O2 Saturation,100.0,%,vitals,response
+386,dd2de650-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:57:00,Systolic BP,96.0,mmHg,vitals,response
+387,dd2de65a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:57:00,Diastolic BP,52.0,mmHg,vitals,response
+388,dd2de66e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 15:57:00,Diastolic BP,52.0,mmHg,vitals,response
+389,dd2de678-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:00:00,Diastolic BP,57.0,mmHg,vitals,response
+390,dd2de68c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:00:00,Diastolic BP,57.0,mmHg,vitals,response
+391,dd2de696-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:00:00,O2 Saturation,100.0,%,vitals,response
+392,dd2de74a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:00:00,Pulse,58.0,BPM,vitals,response
+393,dd2de768-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:00:00,Systolic BP,99.0,mmHg,vitals,response
+394,dd2de772-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:03:00,Systolic BP,108.0,mmHg,vitals,response
+395,dd2de77c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:03:00,Diastolic BP,67.0,mmHg,vitals,response
+396,dd2de790-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:03:00,Diastolic BP,67.0,mmHg,vitals,response
+397,dd2de79a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:05:00,O2 Saturation,100.0,%,vitals,response
+398,dd2de7ae-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:05:00,Pulse,117.0,BPM,vitals,response
+399,dd2de7b8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:10:00,Respiratory Rate,20.0,RPM,vitals,response
+400,dd2de7c2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:10:00,Pulse,81.0,BPM,vitals,response
+401,dd2de7cc-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:10:00,Systolic BP,137.0,mmHg,vitals,response
+402,dd2de7d6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:10:00,Diastolic BP,90.0,mmHg,vitals,response
+403,dd2de7ea-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:10:00,Diastolic BP,90.0,mmHg,vitals,response
+404,dd2de7f4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:10:00,O2 Saturation,98.0,%,vitals,response
+405,dd2de7fe-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:15:00,Respiratory Rate,20.0,RPM,vitals,response
+406,dd2de812-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:15:00,Pulse,92.0,BPM,vitals,response
+407,dd2de81c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:15:00,Systolic BP,137.0,mmHg,vitals,response
+408,dd2de826-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:15:00,Diastolic BP,90.0,mmHg,vitals,response
+409,dd2de830-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:15:00,Diastolic BP,90.0,mmHg,vitals,response
+410,dd2de844-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:15:00,O2 Saturation,97.0,%,vitals,response
+411,dd2de84e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:30:00,Systolic BP,123.0,mmHg,vitals,response
+412,dd2de858-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:30:00,Diastolic BP,87.0,mmHg,vitals,response
+413,dd2de862-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:30:00,Diastolic BP,87.0,mmHg,vitals,response
+414,dd2de86c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:30:00,O2 Saturation,100.0,%,vitals,response
+415,dd2de880-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:30:00,Respiratory Rate,15.0,RPM,vitals,response
+416,dd2de88a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:30:00,Pulse,73.0,BPM,vitals,response
+417,dd2de894-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:45:00,Diastolic BP,66.0,mmHg,vitals,response
+418,dd2de8a8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:45:00,Respiratory Rate,13.0,RPM,vitals,response
+419,dd2de8b2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:45:00,Pulse,72.0,BPM,vitals,response
+420,dd2de8bc-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:45:00,Systolic BP,124.0,mmHg,vitals,response
+421,dd2de8c6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 16:45:00,Diastolic BP,66.0,mmHg,vitals,response
+422,dd2de8d0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:00:00,O2 Saturation,93.0,%,vitals,response
+423,dd2de8da-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:00:00,Respiratory Rate,15.0,RPM,vitals,response
+424,dd2de8ee-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:00:00,Pulse,67.0,BPM,vitals,response
+425,dd2de8f8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:00:00,Systolic BP,109.0,mmHg,vitals,response
+426,dd2de902-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:00:00,Diastolic BP,57.0,mmHg,vitals,response
+427,dd2de90c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:00:00,Diastolic BP,57.0,mmHg,vitals,response
+428,dd2de916-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:15:00,O2 Saturation,94.0,%,vitals,response
+429,dd2de920-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:15:00,Respiratory Rate,13.0,RPM,vitals,response
+430,dd2de92a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:15:00,Pulse,62.0,BPM,vitals,response
+431,dd2de93e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:15:00,Systolic BP,111.0,mmHg,vitals,response
+432,dd2de948-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:15:00,Diastolic BP,49.0,mmHg,vitals,response
+433,dd2de952-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:15:00,Diastolic BP,49.0,mmHg,vitals,response
+434,dd2de95c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:30:00,Respiratory Rate,15.0,RPM,vitals,response
+435,dd2de966-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:30:00,Pulse,69.0,BPM,vitals,response
+436,dd2de970-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:30:00,Systolic BP,113.0,mmHg,vitals,response
+437,dd2de984-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:30:00,Diastolic BP,61.0,mmHg,vitals,response
+438,dd2de98e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:30:00,Diastolic BP,61.0,mmHg,vitals,response
+439,dd2de998-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:30:00,O2 Saturation,95.0,%,vitals,response
+440,dd2de9a2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:45:00,Diastolic BP,59.0,mmHg,vitals,response
+441,dd2de9b6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:45:00,Diastolic BP,59.0,mmHg,vitals,response
+442,dd2de9c0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:45:00,O2 Saturation,95.0,%,vitals,response
+443,dd2de9ca-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:45:00,Respiratory Rate,16.0,RPM,vitals,response
+444,dd2de9d4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:45:00,Pulse,61.0,BPM,vitals,response
+445,dd2de9e8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 17:45:00,Systolic BP,105.0,mmHg,vitals,response
+446,dd2de9f2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 18:21:00,Diastolic BP,84.0,mmHg,vitals,response
+447,dd2de9fc-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 18:21:00,O2 Saturation,95.0,%,vitals,response
+448,dd2dea06-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 18:21:00,Respiratory Rate,16.0,RPM,vitals,response
+449,dd2dea10-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 18:21:00,Pulse,62.0,BPM,vitals,response
+450,dd2dea24-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 18:21:00,Systolic BP,131.0,mmHg,vitals,response
+451,dd2dea2e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 18:21:00,Diastolic BP,84.0,mmHg,vitals,response
+452,dd2dea38-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 21:41:00,Systolic BP,124.0,mmHg,vitals,response
+453,dd2dea42-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 21:41:00,Diastolic BP,75.0,mmHg,vitals,response
+454,dd2dea4c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 21:41:00,Diastolic BP,75.0,mmHg,vitals,response
+455,dd2dea60-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 21:42:00,O2 Saturation,95.0,%,vitals,response
+456,dd2dea6a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 21:42:00,Respiratory Rate,18.0,RPM,vitals,response
+457,dd2dea74-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-22 21:42:00,Pulse,78.0,BPM,vitals,response
+458,dd2dea7e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 06:26:00,O2 Saturation,92.0,%,vitals,response
+459,dd2dea88-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 06:26:00,Respiratory Rate,18.0,RPM,vitals,response
+460,dd2dea9c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 06:26:00,Pulse,64.0,BPM,vitals,response
+461,dd2deaa6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 06:26:00,Systolic BP,134.0,mmHg,vitals,response
+462,dd2deab0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 06:26:00,Diastolic BP,84.0,mmHg,vitals,response
+463,dd2deaba-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 06:26:00,Diastolic BP,84.0,mmHg,vitals,response
+464,dd2deac4-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 14:21:00,Pulse,75.0,BPM,vitals,response
+465,dd2dead8-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 14:21:00,Systolic BP,114.0,mmHg,vitals,response
+466,dd2deae2-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 14:21:00,Diastolic BP,72.0,mmHg,vitals,response
+467,dd2deaec-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 14:21:00,Diastolic BP,72.0,mmHg,vitals,response
+468,dd2deaf6-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 14:21:00,O2 Saturation,98.0,%,vitals,response
+469,dd2deb00-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 14:21:00,Respiratory Rate,18.0,RPM,vitals,response
+470,dd2deb14-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 20:34:00,Diastolic BP,66.0,mmHg,vitals,response
+471,dd2deb1e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 20:34:00,Diastolic BP,66.0,mmHg,vitals,response
+472,dd2deb3c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 20:34:00,O2 Saturation,99.0,%,vitals,response
+473,dd2deb50-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 20:34:00,Respiratory Rate,18.0,RPM,vitals,response
+474,dd2deb5a-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 20:34:00,Pulse,60.0,BPM,vitals,response
+475,dd2deb64-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-23 20:34:00,Systolic BP,102.0,mmHg,vitals,response
+476,dd2deb6e-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-24 06:50:00,O2 Saturation,98.0,%,vitals,response
+477,dd2deb78-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-24 06:50:00,Respiratory Rate,18.0,RPM,vitals,response
+478,dd2deb8c-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-24 06:50:00,Pulse,77.0,BPM,vitals,response
+479,dd2deb96-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-24 06:50:00,Systolic BP,116.0,mmHg,vitals,response
+480,dd2deba0-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-24 06:50:00,Diastolic BP,82.0,mmHg,vitals,response
+481,dd2debaa-73ae-11ea-9037-d077e516bc70,6b046afa-229a-11ea-af9c-8a315723aae9,2014-01-24 06:50:00,Diastolic BP,82.0,mmHg,vitals,response
+482,dd2debb4-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 15:27:00,Normal saline,1000.0,mL,bolus,trigger
+483,dd2debc8-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 15:49:00,O2 Saturation,95.0,%,vitals,response
+484,dd2debd2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 15:49:00,Pulse,106.0,BPM,vitals,response
+485,dd2debdc-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 15:49:00,Systolic BP,220.0,mmHg,vitals,response
+486,dd2debf0-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 15:49:00,Diastolic BP,110.0,mmHg,vitals,response
+487,dd2debfa-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 15:49:00,Diastolic BP,110.0,mmHg,vitals,response
+488,dd2dec04-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 15:49:00,Respiratory Rate,19.0,RPM,vitals,response
+489,dd2dec0e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 16:00:00,O2 Saturation,97.0,%,vitals,response
+490,dd2dec18-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 17:17:00,Potassium,4.1,mMol/L,labs,self
+491,dd2dec2c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 17:17:00,BUN,12.0,mg/dL,labs,self
+492,dd2dec40-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 17:17:00,Sodium,136.0,mMol/L,labs,self
+493,dd2dec4a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 17:17:00,CO2,25.0,mMol/L,labs,self
+494,dd2dec54-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 17:17:00,Chloride,98.0,mMol/L,labs,self
+495,dd2dec68-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 17:17:00,Anion Gap,17.1,mEq/L,labs,self
+496,dd2dec72-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 17:17:00,Glucose,354.0,mg/dL,labs,self
+497,dd2dec86-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 18:13:00,Systolic BP,188.0,mmHg,vitals,response
+498,dd2dec90-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 18:13:00,Diastolic BP,88.0,mmHg,vitals,response
+499,dd2dec9a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 18:13:00,Diastolic BP,88.0,mmHg,vitals,response
+500,dd2deca4-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 19:29:00,Systolic BP,160.0,mmHg,vitals,response
+501,dd2decae-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 19:29:00,Pulse,77.0,BPM,vitals,response
+502,dd2decc2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 19:29:00,Diastolic BP,93.0,mmHg,vitals,response
+503,dd2deccc-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 19:29:00,Diastolic BP,93.0,mmHg,vitals,response
+504,dd2decd6-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 19:29:00,Normal Saline,1000.0,mL,meds,trigger
+505,dd2dece0-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 19:29:00,O2 Saturation,94.0,%,vitals,response
+506,dd2decea-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 19:29:00,Respiratory Rate,19.0,RPM,vitals,response
+507,dd2decfe-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:21:00,Lactated Ringers + Potassium,250.0,mL,meds,trigger
+508,dd2ded08-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:21:00,Lactated Ringers + Potassium,250.0,mL,meds,trigger
+509,dd2ded12-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:24:00,Potassium,3.8,mMol/L,labs,self
+510,dd2ded26-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:24:00,BUN,11.0,mg/dL,labs,self
+511,dd2ded30-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:24:00,Sodium,137.0,mMol/L,labs,self
+512,dd2ded3a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:24:00,CO2,26.0,mMol/L,labs,self
+513,dd2ded44-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:24:00,Chloride,101.0,mMol/L,labs,self
+514,dd2ded58-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:24:00,Anion Gap,13.8,mEq/L,labs,self
+515,dd2ded62-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 20:24:00,Glucose,283.0,mg/dL,labs,self
+516,dd2ded6c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 21:38:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+517,dd2ded80-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:30:00,Sodium,141.0,mMol/L,labs,self
+518,dd2ded8a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:30:00,CO2,29.0,mMol/L,labs,self
+519,dd2ded94-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:30:00,Chloride,104.0,mMol/L,labs,self
+520,dd2ded9e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:30:00,Anion Gap,12.0,mEq/L,labs,self
+521,dd2deda8-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:30:00,Glucose,208.0,mg/dL,labs,self
+522,dd2dedbc-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:30:00,Potassium,4.0,mMol/L,labs,self
+523,dd2dedc6-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:30:00,BUN,10.0,mg/dL,labs,self
+524,dd2def56-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:52:00,Diastolic BP,67.0,mmHg,vitals,response
+525,dd2def6a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:52:00,Diastolic BP,67.0,mmHg,vitals,response
+526,dd2def7e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:52:00,O2 Saturation,95.0,%,vitals,response
+527,dd2def88-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:52:00,Respiratory Rate,18.0,RPM,vitals,response
+528,dd2def92-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:52:00,Systolic BP,118.0,mmHg,vitals,response
+529,dd2def9c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:52:00,Pulse,88.0,BPM,vitals,response
+530,dd2defb0-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 22:59:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+531,dd2defba-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-09 23:00:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+532,dd2defc4-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 01:58:00,CO2,27.0,mMol/L,labs,self
+533,dd2defce-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 01:58:00,Chloride,106.0,mMol/L,labs,self
+534,dd2defe2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 01:58:00,Anion Gap,13.1,mEq/L,labs,self
+535,dd2deff6-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 01:58:00,Glucose,198.0,mg/dL,labs,self
+536,dd2df000-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 01:58:00,Potassium,4.1,mMol/L,labs,self
+537,dd2df014-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 01:58:00,BUN,12.0,mg/dL,labs,self
+538,dd2df01e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 01:58:00,Sodium,142.0,mMol/L,labs,self
+539,dd2df028-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 03:49:00,O2 Saturation,91.0,%,vitals,response
+540,dd2df032-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 03:49:00,Respiratory Rate,18.0,RPM,vitals,response
+541,dd2df03c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 03:49:00,Systolic BP,109.0,mmHg,vitals,response
+542,dd2df050-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 03:49:00,Pulse,87.0,BPM,vitals,response
+543,dd2df05a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 03:49:00,Diastolic BP,56.0,mmHg,vitals,response
+544,dd2df064-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 03:49:00,Diastolic BP,56.0,mmHg,vitals,response
+545,dd2df078-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 04:18:00,Sliding Scale Insulin,8.0,unit(s),meds,trigger
+546,dd2df082-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 04:22:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+547,dd2df08c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 04:59:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+548,dd2df096-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 06:33:00,Respiratory Rate,18.0,RPM,vitals,response
+549,dd2df0aa-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 06:33:00,Systolic BP,112.0,mmHg,vitals,response
+550,dd2df0b4-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 06:33:00,Pulse,87.0,BPM,vitals,response
+551,dd2df0be-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 06:33:00,Diastolic BP,58.0,mmHg,vitals,response
+552,dd2df0c8-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 06:33:00,Diastolic BP,58.0,mmHg,vitals,response
+553,dd2df0d2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 06:33:00,O2 Saturation,92.0,%,vitals,response
+554,dd2df0e6-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:00:00,Anion Gap,12.2,mEq/L,labs,self
+555,dd2df0f0-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:00:00,Glucose,220.0,mg/dL,labs,self
+556,dd2df104-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:00:00,Potassium,4.2,mMol/L,labs,self
+557,dd2df10e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:00:00,BUN,13.0,mg/dL,labs,self
+558,dd2df118-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:00:00,Sodium,143.0,mMol/L,labs,self
+559,dd2df122-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:00:00,CO2,28.0,mMol/L,labs,self
+560,dd2df136-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:00:00,Chloride,107.0,mMol/L,labs,self
+561,dd2df140-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 07:59:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+562,dd2df14a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 08:59:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+563,dd2df154-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:35:00,Potassium,4.3,mMol/L,labs,self
+564,dd2df168-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:35:00,BUN,13.0,mg/dL,labs,self
+565,dd2df172-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:35:00,Sodium,140.0,mMol/L,labs,self
+566,dd2df17c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:35:00,CO2,25.0,mMol/L,labs,self
+567,dd2df186-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:35:00,Chloride,105.0,mMol/L,labs,self
+568,dd2df19a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:35:00,Anion Gap,14.3,mEq/L,labs,self
+569,dd2df1a4-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:35:00,Glucose,291.0,mg/dL,labs,self
+570,dd2df1ae-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 09:59:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+571,dd2df1c2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 10:59:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+572,dd2df1cc-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 11:59:00,Normal Saline + Potassium,1000.0,mL,meds,trigger
+573,dd2df1d6-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 12:43:00,Sliding Scale Insulin,12.0,unit(s),meds,trigger
+574,dd2df1e0-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 15:38:00,Systolic BP,148.0,mmHg,vitals,response
+575,dd2df1ea-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 15:38:00,Pulse,70.0,BPM,vitals,response
+576,dd2df1fe-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 15:38:00,Diastolic BP,75.0,mmHg,vitals,response
+577,dd2df208-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 15:38:00,Diastolic BP,75.0,mmHg,vitals,response
+578,dd2df212-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 15:38:00,O2 Saturation,95.0,%,vitals,response
+579,dd2df21c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 15:38:00,Respiratory Rate,16.0,RPM,vitals,response
+580,dd2df226-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 17:33:00,Sliding Scale Insulin,8.0,unit(s),meds,trigger
+581,dd2df23a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 19:02:00,Systolic BP,161.0,mmHg,vitals,response
+582,dd2df244-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 19:02:00,Pulse,79.0,BPM,vitals,response
+583,dd2df24e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 19:02:00,Diastolic BP,83.0,mmHg,vitals,response
+584,dd2df258-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 19:02:00,Diastolic BP,83.0,mmHg,vitals,response
+585,dd2df262-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 19:02:00,O2 Saturation,96.0,%,vitals,response
+586,dd2df276-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 19:02:00,Respiratory Rate,16.0,RPM,vitals,response
+587,dd2df280-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 20:56:00,Sodium,137.0,mMol/L,labs,self
+588,dd2df28a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 20:56:00,CO2,27.0,mMol/L,labs,self
+589,dd2df294-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 20:56:00,Chloride,103.0,mMol/L,labs,self
+590,dd2df2a8-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 20:56:00,Anion Gap,10.9,mEq/L,labs,self
+591,dd2df2b2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 20:56:00,Glucose,251.0,mg/dL,labs,self
+592,dd2df2bc-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 20:56:00,Potassium,3.9,mMol/L,labs,self
+593,dd2df2d0-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 20:56:00,BUN,13.0,mg/dL,labs,self
+594,dd2df2da-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 21:59:00,Sliding Scale Insulin,6.0,unit(s),meds,trigger
+595,dd2df2e4-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 23:44:00,Diastolic BP,71.0,mmHg,vitals,response
+596,dd2df2ee-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 23:44:00,O2 Saturation,94.0,%,vitals,response
+597,dd2df302-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 23:44:00,Respiratory Rate,16.0,RPM,vitals,response
+598,dd2df30c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 23:44:00,Systolic BP,154.0,mmHg,vitals,response
+599,dd2df316-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 23:44:00,Pulse,67.0,BPM,vitals,response
+600,dd2df320-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-10 23:44:00,Diastolic BP,71.0,mmHg,vitals,response
+601,dd2df334-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:47:00,CO2,26.0,mMol/L,labs,self
+602,dd2df33e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:47:00,Chloride,105.0,mMol/L,labs,self
+603,dd2df348-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:47:00,Anion Gap,11.6,mEq/L,labs,self
+604,dd2df35c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:47:00,Glucose,212.0,mg/dL,labs,self
+605,dd2df366-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:47:00,Potassium,3.6,mMol/L,labs,self
+606,dd2df370-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:47:00,BUN,13.0,mg/dL,labs,self
+607,dd2df37a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:47:00,Sodium,139.0,mMol/L,labs,self
+608,dd2df38e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:49:00,O2 Saturation,95.0,%,vitals,response
+609,dd2df398-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:49:00,Respiratory Rate,16.0,RPM,vitals,response
+610,dd2df3a2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:49:00,Systolic BP,133.0,mmHg,vitals,response
+611,dd2df3ac-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:49:00,Pulse,66.0,BPM,vitals,response
+612,dd2df3c0-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:49:00,Diastolic BP,75.0,mmHg,vitals,response
+613,dd2df3ca-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 03:49:00,Diastolic BP,75.0,mmHg,vitals,response
+614,dd2df3d4-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 07:16:00,Respiratory Rate,16.0,RPM,vitals,response
+615,dd2df3de-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 07:16:00,Systolic BP,166.0,mmHg,vitals,response
+616,dd2df3e8-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 07:16:00,Pulse,66.0,BPM,vitals,response
+617,dd2df3f2-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 07:16:00,Diastolic BP,84.0,mmHg,vitals,response
+618,dd2df3fc-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 07:16:00,Diastolic BP,84.0,mmHg,vitals,response
+619,dd2df410-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 07:16:00,O2 Saturation,96.0,%,vitals,response
+620,dd2df41a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 09:42:00,Sliding Scale Insulin,4.0,unit(s),meds,trigger
+621,dd2df424-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 11:40:00,Systolic BP,194.0,mmHg,vitals,response
+622,dd2df42e-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 11:40:00,Pulse,69.0,BPM,vitals,response
+623,dd2df442-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 11:40:00,Diastolic BP,79.0,mmHg,vitals,response
+624,dd2df44c-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 11:40:00,Diastolic BP,79.0,mmHg,vitals,response
+625,dd2df456-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 11:40:00,O2 Saturation,95.0,%,vitals,response
+626,dd2df460-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 11:40:00,Respiratory Rate,16.0,RPM,vitals,response
+627,dd2df46a-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 13:03:00,Sliding Scale Insulin,6.0,unit(s),meds,trigger
+628,dd2df474-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 13:37:00,Diastolic BP,95.0,mmHg,vitals,response
+629,dd2df488-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 13:37:00,Diastolic BP,95.0,mmHg,vitals,response
+630,dd2df492-73ae-11ea-9037-d077e516bc70,6b129580-229a-11ea-af9c-8a315723aae9,2013-10-11 13:37:00,Systolic BP,179.0,mmHg,vitals,response
+631,dd2df49c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:07:00,Diastolic BP,73.0,mmHg,vitals,response
+632,dd2df4a6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:07:00,Systolic BP,111.0,mmHg,vitals,response
+633,dd2df4b0-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:07:00,Diastolic BP,73.0,mmHg,vitals,response
+634,dd2df4c4-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:08:00,Pulse,63.0,BPM,vitals,response
+635,dd2df4ce-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:08:00,O2 Saturation,99.0,%,vitals,response
+636,dd2df4d8-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:35:00,Chloride,96.0,mMol/L,labs,self
+637,dd2df4e2-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:35:00,Glucose,135.0,mg/dL,labs,self
+638,dd2df4f6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:35:00,BUN,43.0,mg/dL,labs,self
+639,dd2df500-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:35:00,CO2,18.0,mMol/L,labs,self
+640,dd2df50a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:35:00,Anion Gap,18.0,mEq/L,labs,self
+641,dd2df514-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:35:00,Potassium,4.9,mMol/L,labs,self
+642,dd2df528-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 21:35:00,Sodium,127.0,mMol/L,labs,self
+643,dd2df532-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 22:59:00,Pulse,64.0,BPM,vitals,response
+644,dd2df53c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 22:59:00,Respiratory Rate,16.0,RPM,vitals,response
+645,dd2df550-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 22:59:00,Systolic BP,116.0,mmHg,vitals,response
+646,dd2df55a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 22:59:00,O2 Saturation,99.0,%,vitals,response
+647,dd2df564-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 22:59:00,Diastolic BP,68.0,mmHg,vitals,response
+648,dd2df56e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-08 22:59:00,Diastolic BP,68.0,mmHg,vitals,response
+649,dd2df578-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 00:11:00,Normal saline,500.0,mL,bolus,trigger
+650,dd2df58c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 00:26:00,Pulse,65.0,BPM,vitals,response
+651,dd2df596-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 00:26:00,Respiratory Rate,14.0,RPM,vitals,response
+652,dd2df5a0-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 00:26:00,Systolic BP,124.0,mmHg,vitals,response
+653,dd2df5aa-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 00:26:00,O2 Saturation,100.0,%,vitals,response
+654,dd2df5b4-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 00:26:00,Diastolic BP,65.0,mmHg,vitals,response
+655,dd2df654-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 00:26:00,Diastolic BP,65.0,mmHg,vitals,response
+656,dd2df672-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 01:21:00,Systolic BP,124.0,mmHg,vitals,response
+657,dd2df67c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 01:21:00,O2 Saturation,98.0,%,vitals,response
+658,dd2df686-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 01:21:00,Diastolic BP,65.0,mmHg,vitals,response
+659,dd2df690-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 01:21:00,Diastolic BP,65.0,mmHg,vitals,response
+660,dd2df69a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 01:21:00,Pulse,65.0,BPM,vitals,response
+661,dd2df6ae-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 01:21:00,Respiratory Rate,21.0,RPM,vitals,response
+662,dd2df6b8-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 03:48:00,Normal Saline,500.0,mL,meds,trigger
+663,dd2df802-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:14:00,BUN,46.0,mg/dL,labs,self
+664,dd2df82a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:14:00,CO2,20.0,mMol/L,labs,self
+665,dd2df83e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:14:00,Anion Gap,15.0,mEq/L,labs,self
+666,dd2df848-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:14:00,Potassium,4.5,mMol/L,labs,self
+667,dd2df85c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:14:00,Sodium,128.0,mMol/L,labs,self
+668,dd2df866-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:14:00,Chloride,98.0,mMol/L,labs,self
+669,dd2df870-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:14:00,Glucose,105.0,mg/dL,labs,self
+670,dd2df884-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:34:00,Diastolic BP,99.0,mmHg,vitals,response
+671,dd2df88e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:34:00,Pulse,70.0,BPM,vitals,response
+672,dd2df898-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:34:00,Respiratory Rate,20.0,RPM,vitals,response
+673,dd2df8a2-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:34:00,Systolic BP,121.0,mmHg,vitals,response
+674,dd2df8b6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:34:00,O2 Saturation,100.0,%,vitals,response
+675,dd2df8c0-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 05:34:00,Diastolic BP,99.0,mmHg,vitals,response
+676,dd2df8ca-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 06:06:00,Pulse,60.0,BPM,vitals,response
+677,dd2df8d4-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 06:06:00,Systolic BP,129.0,mmHg,vitals,response
+678,dd2df8e8-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 06:06:00,Diastolic BP,55.0,mmHg,vitals,response
+679,dd2df8f2-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 06:06:00,Diastolic BP,55.0,mmHg,vitals,response
+680,dd2df8fc-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 08:00:00,Pulse,59.0,BPM,vitals,response
+681,dd2df906-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 08:00:00,Systolic BP,110.0,mmHg,vitals,response
+682,dd2df91a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 08:00:00,Respiratory Rate,18.0,RPM,vitals,response
+683,dd2df924-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 08:00:00,Diastolic BP,53.0,mmHg,vitals,response
+684,dd2df92e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 08:00:00,O2 Saturation,98.0, ,vitals,response
+685,dd2df938-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 08:00:00,Diastolic BP,53.0,mmHg,vitals,response
+686,dd2df94c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 11:35:00,Pulse,60.0,BPM,vitals,response
+687,dd2df956-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 11:35:00,Systolic BP,108.0,mmHg,vitals,response
+688,dd2df960-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 11:35:00,Respiratory Rate,18.0,RPM,vitals,response
+689,dd2df96a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 11:35:00,Diastolic BP,51.0,mmHg,vitals,response
+690,dd2df974-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 11:35:00,O2 Saturation,99.0, ,vitals,response
+691,dd2df97e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 11:35:00,Diastolic BP,51.0,mmHg,vitals,response
+692,dd2df992-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 16:36:00,Respiratory Rate,18.0,RPM,vitals,response
+693,dd2df99c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 16:36:00,Diastolic BP,53.0,mmHg,vitals,response
+694,dd2df9a6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 16:36:00,O2 Saturation,99.0, ,vitals,response
+695,dd2df9b0-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 16:36:00,Diastolic BP,53.0,mmHg,vitals,response
+696,dd2df9ba-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 16:36:00,Pulse,68.0,BPM,vitals,response
+697,dd2df9ce-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 16:36:00,Systolic BP,128.0,mmHg,vitals,response
+698,dd2df9d8-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 16:43:00,Sliding Scale Insulin,2.0,unit(s),meds,trigger
+699,dd2df9e2-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 19:55:00,Diastolic BP,58.0,mmHg,vitals,response
+700,dd2df9f6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 19:55:00,Pulse,66.0,BPM,vitals,response
+701,dd2dfa00-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 19:55:00,Systolic BP,115.0,mmHg,vitals,response
+702,dd2dfa0a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 19:55:00,Respiratory Rate,18.0,RPM,vitals,response
+703,dd2dfa14-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 19:55:00,Diastolic BP,58.0,mmHg,vitals,response
+704,dd2dfa28-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 19:55:00,O2 Saturation,95.0,%,vitals,response
+705,dd2dfa32-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 23:27:00,Pulse,59.0,BPM,vitals,response
+706,dd2dfa3c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 23:27:00,Systolic BP,121.0,mmHg,vitals,response
+707,dd2dfa46-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 23:27:00,Respiratory Rate,16.0,RPM,vitals,response
+708,dd2dfa50-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 23:27:00,Diastolic BP,59.0,mmHg,vitals,response
+709,dd2dfa64-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 23:27:00,O2 Saturation,99.0, ,vitals,response
+710,dd2dfa6e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-09 23:27:00,Diastolic BP,59.0,mmHg,vitals,response
+711,dd2dfa78-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 03:39:00,Pulse,61.0,BPM,vitals,response
+712,dd2dfa82-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 03:39:00,Systolic BP,121.0,mmHg,vitals,response
+713,dd2dfa8c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 03:39:00,Respiratory Rate,16.0,RPM,vitals,response
+714,dd2dfaa0-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 03:39:00,Diastolic BP,57.0,mmHg,vitals,response
+715,dd2dfaaa-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 03:39:00,O2 Saturation,99.0,%,vitals,response
+716,dd2dfab4-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 03:39:00,Diastolic BP,57.0,mmHg,vitals,response
+717,dd2dfabe-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 04:15:00,CO2,21.0,mMol/L,labs,self
+718,dd2dfac8-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 04:15:00,Anion Gap,13.0,mEq/L,labs,self
+719,dd2dfadc-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 04:15:00,Potassium,4.7,mMol/L,labs,self
+720,dd2dfae6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 04:15:00,Sodium,128.0,mMol/L,labs,self
+721,dd2dfaf0-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 04:15:00,Chloride,99.0,mMol/L,labs,self
+722,dd2dfb04-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 04:15:00,Glucose,125.0,mg/dL,labs,self
+723,dd2dfb0e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 04:15:00,BUN,54.0,mg/dL,labs,self
+724,dd2dfb18-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 07:49:00,Systolic BP,148.0,mmHg,vitals,response
+725,dd2dfb22-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 07:49:00,Respiratory Rate,18.0,RPM,vitals,response
+726,dd2dfb2c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 07:49:00,Diastolic BP,69.0,mmHg,vitals,response
+727,dd2dfb36-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 07:49:00,O2 Saturation,98.0, ,vitals,response
+728,dd2dfb4a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 07:49:00,Diastolic BP,69.0,mmHg,vitals,response
+729,dd2dfb54-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 07:49:00,Pulse,65.0,BPM,vitals,response
+730,dd2dfb5e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 08:45:00,O2 Saturation,97.0,%,vitals,response
+731,dd2dfb68-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 11:33:00,Diastolic BP,60.0,mmHg,vitals,response
+732,dd2dfb72-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 11:33:00,Diastolic BP,60.0,mmHg,vitals,response
+733,dd2dfb7c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 11:33:00,Pulse,74.0,BPM,vitals,response
+734,dd2dfb90-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 11:33:00,Systolic BP,129.0,mmHg,vitals,response
+735,dd2dfb9a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 11:33:00,O2 Saturation,99.0,%,vitals,response
+736,dd2dfba4-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 11:33:00,Respiratory Rate,18.0,RPM,vitals,response
+737,dd2dfbae-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 16:02:00,Pulse,63.0,BPM,vitals,response
+738,dd2dfbb8-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 16:02:00,Systolic BP,138.0,mmHg,vitals,response
+739,dd2dfbcc-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 16:02:00,O2 Saturation,99.0, ,vitals,response
+740,dd2dfbd6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 16:02:00,Respiratory Rate,18.0,RPM,vitals,response
+741,dd2dfbe0-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 16:02:00,Diastolic BP,64.0,mmHg,vitals,response
+742,dd2dfbea-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 16:02:00,Diastolic BP,64.0,mmHg,vitals,response
+743,dd2dfbf4-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 17:24:00,Sliding Scale Insulin,2.0,unit(s),meds,trigger
+744,dd2dfc08-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 20:43:00,Pulse,72.0,BPM,vitals,response
+745,dd2dfc12-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 20:43:00,Systolic BP,111.0,mmHg,vitals,response
+746,dd2dfc1c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 20:43:00,O2 Saturation,100.0,%,vitals,response
+747,dd2dfc26-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 20:43:00,Respiratory Rate,16.0,RPM,vitals,response
+748,dd2dfc30-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 20:43:00,Diastolic BP,84.0,mmHg,vitals,response
+749,dd2dfc3a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 20:43:00,Diastolic BP,84.0,mmHg,vitals,response
+750,dd2dfc4e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 23:06:00,Pulse,61.0,BPM,vitals,response
+751,dd2dfc58-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 23:06:00,Systolic BP,136.0,mmHg,vitals,response
+752,dd2dfc62-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 23:06:00,O2 Saturation,99.0, ,vitals,response
+753,dd2dfc6c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 23:06:00,Respiratory Rate,16.0,RPM,vitals,response
+754,dd2dfc80-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 23:06:00,Diastolic BP,68.0,mmHg,vitals,response
+755,dd2dfc8a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-10 23:06:00,Diastolic BP,68.0,mmHg,vitals,response
+756,dd2dfc94-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 04:53:00,Respiratory Rate,14.0,RPM,vitals,response
+757,dd2dfc9e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 04:53:00,Diastolic BP,45.0,mmHg,vitals,response
+758,dd2dfca8-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 04:53:00,Diastolic BP,45.0,mmHg,vitals,response
+759,dd2dfcb2-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 04:53:00,Pulse,71.0,BPM,vitals,response
+760,dd2dfcbc-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 04:53:00,Systolic BP,137.0,mmHg,vitals,response
+761,dd2dfcc6-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 04:53:00,O2 Saturation,97.0, ,vitals,response
+762,dd2dfcda-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 05:13:00,Potassium,4.4,mMol/L,labs,self
+763,dd2dfce4-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 05:13:00,Sodium,131.0,mMol/L,labs,self
+764,dd2dfcee-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 05:13:00,Chloride,102.0,mMol/L,labs,self
+765,dd2dfd02-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 05:13:00,Glucose,121.0,mg/dL,labs,self
+766,dd2dfd0c-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 05:13:00,BUN,48.0,mg/dL,labs,self
+767,dd2dfd16-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 05:13:00,CO2,19.0,mMol/L,labs,self
+768,dd2dfd20-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 05:13:00,Anion Gap,14.0,mEq/L,labs,self
+769,dd2dfd2a-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 07:42:00,Diastolic BP,56.0,mmHg,vitals,response
+770,dd2dfd3e-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 07:42:00,Pulse,90.0,BPM,vitals,response
+771,dd2dfd48-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 07:42:00,Systolic BP,122.0,mmHg,vitals,response
+772,dd2dfd52-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 07:42:00,O2 Saturation,98.0, ,vitals,response
+773,dd2dfd66-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 07:42:00,Respiratory Rate,20.0,RPM,vitals,response
+774,dd2dfd70-73ae-11ea-9037-d077e516bc70,6b3f03e0-229a-11ea-af9c-8a315723aae9,2014-06-11 07:42:00,Diastolic BP,56.0,mmHg,vitals,response
+775,dd2dfd7a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 22:51:00,Normal saline,2000.0,mL,bolus,trigger
+776,dd2dfd84-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:00:00,Systolic BP,71.0,mmHg,vitals,response
+777,dd2dfd8e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:00:00,Diastolic BP,50.0,mmHg,vitals,response
+778,dd2dfd98-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:00:00,Respiratory Rate,24.0,RPM,vitals,response
+779,dd2dfda2-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:00:00,Pulse,57.0,BPM,vitals,response
+780,dd2dfdac-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:00:00,Diastolic BP,50.0,mmHg,vitals,response
+781,dd2dfdb6-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:00:00,O2 Saturation,82.0,%,vitals,response
+782,dd2dfdc0-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:35:00,CO2,13.0,mMol/L,labs,self
+783,dd2dfdca-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:35:00,Anion Gap,18.7,mEq/L,labs,self
+784,dd2dfdde-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:35:00,Potassium,5.7,mMol/L,labs,self
+785,dd2dfdf2-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:35:00,Sodium,126.0,mMol/L,labs,self
+786,dd2dfdfc-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:35:00,Chloride,100.0,mMol/L,labs,self
+787,dd2dff96-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:35:00,Glucose,167.0,mg/dL,labs,self
+788,dd2dffaa-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-11 23:35:00,BUN,46.0,mg/dL,labs,self
+789,dd2dffb4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 00:00:00,O2 Saturation,95.0,%,vitals,response
+790,dd2dffc8-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Anion Gap,20.2,mEq/L,labs,self
+791,dd2dffdc-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Potassium,5.2,mMol/L,labs,self
+792,dd2dffe6-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Diastolic BP,89.0,mmHg,vitals,response
+793,dd2dfff0-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Respiratory Rate,33.0,RPM,vitals,response
+794,dd2e0004-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Sodium,127.0,mMol/L,labs,self
+795,dd2e000e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Pulse,67.0,BPM,vitals,response
+796,dd2e0018-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,O2 Saturation,99.0,%,vitals,response
+797,dd2e0022-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Diastolic BP,89.0,mmHg,vitals,response
+798,dd2e002c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Chloride,96.0,mMol/L,labs,self
+799,dd2e0040-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Glucose,147.0,mg/dL,labs,self
+800,dd2e004a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,BUN,46.0,mg/dL,labs,self
+801,dd2e0054-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,Systolic BP,133.0,mmHg,vitals,response
+802,dd2e0068-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 01:00:00,CO2,16.0,mMol/L,labs,self
+803,dd2e0072-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 02:00:00,Diastolic BP,56.0,mmHg,vitals,response
+804,dd2e007c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 02:00:00,Respiratory Rate,24.0,RPM,vitals,response
+805,dd2e0086-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 02:00:00,Pulse,62.0,BPM,vitals,response
+806,dd2e0090-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 02:00:00,O2 Saturation,88.0,%,vitals,response
+807,dd2e009a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 02:00:00,Diastolic BP,56.0,mmHg,vitals,response
+808,dd2e00a4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 02:00:00,Systolic BP,110.0,mmHg,vitals,response
+809,dd2e00b8-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:00:00,Diastolic BP,71.0,mmHg,vitals,response
+810,dd2e00c2-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:00:00,Systolic BP,110.0,mmHg,vitals,response
+811,dd2e00cc-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:00:00,Diastolic BP,71.0,mmHg,vitals,response
+812,dd2e00d6-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:00:00,Respiratory Rate,22.0,RPM,vitals,response
+813,dd2e00e0-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:00:00,Pulse,64.0,BPM,vitals,response
+814,dd2e00f4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:00:00,O2 Saturation,94.0,%,vitals,response
+815,dd2e00fe-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:24:00,Normal Saline,1000.0,mL,meds,trigger
+816,dd2e0108-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:24:00,Normal Saline,1000.0,mL,meds,trigger
+817,dd2e0112-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 03:59:00,Normal Saline,1000.0,mL,meds,trigger
+818,dd2e011c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:00:00,Systolic BP,103.0,mmHg,vitals,response
+819,dd2e0126-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:00:00,Diastolic BP,66.0,mmHg,vitals,response
+820,dd2e013a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:00:00,Respiratory Rate,22.0,RPM,vitals,response
+821,dd2e0144-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:00:00,Pulse,67.0,BPM,vitals,response
+822,dd2e014e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:00:00,O2 Saturation,94.0,%,vitals,response
+823,dd2e0158-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:00:00,Diastolic BP,66.0,mmHg,vitals,response
+824,dd2e0162-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:05:00,Sodium,126.0,mMol/L,labs,self
+825,dd2e0a18-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:05:00,Chloride,96.0,mMol/L,labs,self
+826,dd2e0a9a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:05:00,Glucose,194.0,mg/dL,labs,self
+827,dd2e0aae-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:05:00,BUN,48.0,mg/dL,labs,self
+828,dd2e0ab8-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:05:00,CO2,14.0,mMol/L,labs,self
+829,dd2e0acc-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:05:00,Anion Gap,20.9,mEq/L,labs,self
+830,dd2e0ae0-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:05:00,Potassium,4.9,mMol/L,labs,self
+831,dd2e0af4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 04:42:00,Normal Saline,1000.0,mL,meds,trigger
+832,dd2e0afe-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 05:00:00,Diastolic BP,63.0,mmHg,vitals,response
+833,dd2e0b12-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 05:00:00,Respiratory Rate,25.0,RPM,vitals,response
+834,dd2e0b1c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 05:00:00,Pulse,71.0,BPM,vitals,response
+835,dd2e0b30-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 05:00:00,O2 Saturation,98.0,%,vitals,response
+836,dd2e0b3a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 05:00:00,Diastolic BP,63.0,mmHg,vitals,response
+837,dd2e0b44-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 05:00:00,Systolic BP,100.0,mmHg,vitals,response
+838,dd2e0b58-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 05:59:00,Normal Saline,1000.0,mL,meds,trigger
+839,dd2e0b62-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 06:00:00,Diastolic BP,62.0,mmHg,vitals,response
+840,dd2e0b76-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 06:00:00,Respiratory Rate,26.0,RPM,vitals,response
+841,dd2e0b80-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 06:00:00,Pulse,74.0,BPM,vitals,response
+842,dd2e0b94-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 06:00:00,O2 Saturation,93.0,%,vitals,response
+843,dd2e0b9e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 06:00:00,Diastolic BP,62.0,mmHg,vitals,response
+844,dd2e0ba8-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 06:00:00,Systolic BP,87.0,mmHg,vitals,response
+845,dd2e0bbc-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 06:59:00,Normal Saline,1000.0,mL,meds,trigger
+846,dd2e0bc6-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 07:00:00,Pulse,74.0,BPM,vitals,response
+847,dd2e0bda-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 07:00:00,O2 Saturation,99.0,%,vitals,response
+848,dd2e0be4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 08:00:00,Diastolic BP,54.0,mmHg,vitals,response
+849,dd2e0bf8-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 08:00:00,Systolic BP,96.0,mmHg,vitals,response
+850,dd2e0c02-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 08:00:00,Pulse,78.0,BPM,vitals,response
+851,dd2e0c0c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 08:00:00,O2 Saturation,95.0,%,vitals,response
+852,dd2e0c20-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 08:00:00,Diastolic BP,54.0,mmHg,vitals,response
+853,dd2e0c2a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 09:00:00,Systolic BP,82.0,mmHg,vitals,response
+854,dd2e0c3e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 09:00:00,Pulse,78.0,BPM,vitals,response
+855,dd2e0c48-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 09:00:00,O2 Saturation,100.0,%,vitals,response
+856,dd2e0c5c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 09:00:00,Diastolic BP,53.0,mmHg,vitals,response
+857,dd2e0c66-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 09:00:00,Diastolic BP,53.0,mmHg,vitals,response
+858,dd2e0c70-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 09:51:00,Pulse,79.0,BPM,vitals,response
+859,dd2e0c84-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 09:51:00,O2 Saturation,98.0,%,vitals,response
+860,dd2e0c8e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 10:00:00,Systolic BP,97.0,mmHg,vitals,response
+861,dd2e0c98-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 10:00:00,Pulse,80.0,BPM,vitals,response
+862,dd2e0cac-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 10:00:00,O2 Saturation,98.0,%,vitals,response
+863,dd2e0cb6-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 10:00:00,Diastolic BP,51.0,mmHg,vitals,response
+864,dd2e0cca-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 10:00:00,Diastolic BP,51.0,mmHg,vitals,response
+865,dd2e0cd4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 10:27:00,Normal Saline,1000.0,mL,meds,trigger
+866,dd2e0cde-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 11:00:00,Diastolic BP,69.0,mmHg,vitals,response
+867,dd2e0cf2-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 11:00:00,Diastolic BP,69.0,mmHg,vitals,response
+868,dd2e0cfc-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 11:00:00,Systolic BP,95.0,mmHg,vitals,response
+869,dd2e0d10-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 11:00:00,Pulse,82.0,BPM,vitals,response
+870,dd2e0d1a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 11:00:00,O2 Saturation,97.0,%,vitals,response
+871,dd2e0d2e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 12:00:00,Diastolic BP,65.0,mmHg,vitals,response
+872,dd2e0d38-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 12:00:00,Diastolic BP,65.0,mmHg,vitals,response
+873,dd2e0d42-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 12:00:00,Systolic BP,100.0,mmHg,vitals,response
+874,dd2e0d56-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 12:00:00,Pulse,81.0,BPM,vitals,response
+875,dd2e0d60-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 12:00:00,O2 Saturation,99.0,%,vitals,response
+876,dd2e0d6a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 13:00:00,Diastolic BP,60.0,mmHg,vitals,response
+877,dd2e0d7e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 13:00:00,Systolic BP,88.0,mmHg,vitals,response
+878,dd2e0d88-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 13:00:00,Pulse,87.0,BPM,vitals,response
+879,dd2e0d9c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 13:00:00,O2 Saturation,99.0,%,vitals,response
+880,dd2e0da6-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 13:00:00,Diastolic BP,60.0,mmHg,vitals,response
+881,dd2e0db0-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 14:00:00,Pulse,93.0,BPM,vitals,response
+882,dd2e0dc4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 14:00:00,O2 Saturation,96.0,%,vitals,response
+883,dd2e0dce-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 15:00:00,Pulse,98.0,BPM,vitals,response
+884,dd2e0de2-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 15:00:00,O2 Saturation,94.0,%,vitals,response
+885,dd2e0dec-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 16:00:00,Pulse,102.0,BPM,vitals,response
+886,dd2e0e00-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 16:00:00,O2 Saturation,96.0,%,vitals,response
+887,dd2e0e0a-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:04:00,Normal Saline,2000.0,mL,meds,trigger
+888,dd2e0e14-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:08:00,Pulse,99.0,BPM,vitals,response
+889,dd2e0e28-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:08:00,O2 Saturation,97.0,%,vitals,response
+890,dd2e0e32-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:12:00,Pulse,99.0,BPM,vitals,response
+891,dd2e0e46-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:12:00,O2 Saturation,97.0,%,vitals,response
+892,dd2e0e50-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:49:00,Chloride,102.0,mMol/L,labs,self
+893,dd2e0e64-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:49:00,Glucose,94.0,mg/dL,labs,self
+894,dd2e0e6e-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:49:00,BUN,47.0,mg/dL,labs,self
+895,dd2e0e82-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:49:00,CO2,9.0,mMol/L,labs,self
+896,dd2e0e8c-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:49:00,Anion Gap,23.7,mEq/L,labs,self
+897,dd2e0ea0-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:49:00,Potassium,4.7,mMol/L,labs,self
+898,dd2e0eb4-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 17:49:00,Sodium,130.0,mMol/L,labs,self
+899,dd2e0ebe-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 18:00:00,Pulse,102.0,BPM,vitals,response
+900,dd2e0ed2-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 18:00:00,O2 Saturation,96.0,%,vitals,response
+901,dd2e0edc-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 19:00:00,O2 Saturation,94.0,%,vitals,response
+902,dd2e0ef0-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 19:00:00,Pulse,112.0,BPM,vitals,response
+903,dd2e0efa-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 20:00:00,Pulse,112.0,BPM,vitals,response
+904,dd2e0f04-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 20:00:00,O2 Saturation,84.0,%,vitals,response
+905,dd2e0f18-73ae-11ea-9037-d077e516bc70,6b5b905a-229a-11ea-af9c-8a315723aae9,2014-02-12 20:53:00,Normal Saline,1000.0,mL,meds,trigger

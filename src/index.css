@@ -1,0 +1,16 @@
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+html, body {
+  font-family: Arial, Helvetica, sans-serif;  
+  height: 100%;
+  
+  padding: 3px;
+  background-image: linear-gradient(65deg, #ffffff, #96dbd6);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
